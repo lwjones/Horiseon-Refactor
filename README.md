@@ -53,7 +53,3 @@ From this learned a couple of key things:
 - CSS supports use of font variables. Many examples use colors as variables. However I was surprised to see that storing fonts in variables. It should be noted that [Internet Explorer does not support the use of variables](https://caniuse.com/css-variables), however even Microsoft acknowledges that [it is time to leave IE behind](https://support.microsoft.com/en-us/microsoft-edge/make-the-switch-from-internet-explorer-to-microsoft-edge-a6f7173e-e84a-36a3-9728-3df20ade9b3c).
 
 - HTML5 supports semantic HTML. Making sure it is compliance with W3 specifications is important. It makes sure your code is in spec and other browsers/devices can properly interpret your website. Moreover making use of proper tags helps devices and seo tools to parse your content. For which tags to use, it would help to hash this out during the designing and wireframing phases to help structure the skeleton of the pages.
-
-## Credits
-
-## License
